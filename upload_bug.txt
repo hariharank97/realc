@@ -1,0 +1,50 @@
+Anna! Let us try to work on a very small bug that I'm facing on GitHub without using WhatsApp and Phonecall. Strictly GitHub Only!
+
+
+
+
+
+MY HISTORY OF COMMANDS!
+git config --global user.name "hariharank97"
+ 2083  git config --global user.email "haranh389@gmail.com"
+ 2084  git status
+ 2085  c
+ 2086  git config --list
+ 2087  c
+ 2088  la
+ 2089  ls -altr
+ 2090  c
+ 2091  git status
+ 2092* 
+ 2093  git status
+ 2094  git hello.c
+ 2095  gedit hello.c
+ 2096  git diff
+ 2097  git add
+ 2098  git add .
+ 2099  git status
+ 2100  git commit "Old School V2.0"
+ 2101  git commit -m "Old School v2.0"
+ 2102  git status
+ 2103  git log
+ 2104  git status 
+ 2105  git remote add origin https://github.com/hariharank97/realc.git
+ 2106  git push origin master
+ 2107  git remote add origin https://github.com/hariharank97/realc.git
+ 2108  git push origin master
+ 2109  git status 
+ 2110* git fetch origin maste
+ 2111  git push origin master
+ 2112  git merge origin master
+ 2113  git pull
+ 2114  git push origin master
+ 2115  git push origin master -f   <----------------- ALWAYS, I HAVE TO FORCE! :( :( :( :( SO SAD BRO
+ 
+
+FACING THIS BUG:
+! [rejected]        master -> master (fetch first)
+
+LINK:
+https://stackoverflow.com/questions/28429819/rejected-master-master-fetch-first
+error: failed to push some refs to 'git@github.com:zapnaa/abcappp.git'
+
